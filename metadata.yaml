@@ -1,0 +1,37 @@
+_repo: The-History-of-the-Medical-Department-of-Transylvania-University_31816
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Peter, Robert
+    alias: Peter, R. (Robert)
+    birthdate: 1805
+    deathdate: 1894
+    gutenberg_agent_id: '35495'
+    url: http://www.gutenberg.org/2009/agents/35495
+  editor:
+    agent_name: Peter, Johanna
+    birthdate: 1845
+    deathdate: 1935
+    gutenberg_agent_id: '35496'
+    url: http://www.gutenberg.org/2009/agents/35496
+description: ''
+gutenberg_issued: '2010-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31816'
+  lccn: '05003745'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Medicine -- Kentucky'
+- !lcc 'R'
+- !lcc 'F396'
+- !lcsh 'Medicine -- Kentucky -- History'
+- !lcsh 'Transylvania University. Medical Department'
+title: The History of the Medical Department of Transylvania University
+url: http://www.gutenberg.org/ebooks/31816
