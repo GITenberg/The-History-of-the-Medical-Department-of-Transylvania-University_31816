@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '35496'
     url: http://www.gutenberg.org/2009/agents/35496
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31816#The-History-of-the-Medical-Department-of-Transylvania-University
 gutenberg_issued: '2010-03-29'
 gutenberg_type: Text
 identifiers:
